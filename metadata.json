@@ -1,0 +1,6 @@
+{
+  "name": "SmartBank — Banking Complaint & Tracking System",
+  "description": "Premium fintech complaint registration, workflow management, and real-time tracking portal by Amit Kumar (B.Tech CSE, Lloyd Institute of Engineering and Technology).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
